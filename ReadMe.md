@@ -26,7 +26,8 @@ Add package meteor add angular-compilers
 
 **Step 5)**
 ```
-Clone or Unzip the attached scaffolding into the app.  It will have the folders client, server, imports, and files package.json, etc.
+Clone or Unzip the attached scaffolding into the app.
+It will have the folders client, server, imports, and files package.json, etc.
 ```
 
 **Step 6)**
